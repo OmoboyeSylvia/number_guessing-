@@ -1,0 +1,6 @@
+C:\Users\Adeboye omotayo\source\repos\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\Adeboye omotayo\source\repos\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\Adeboye omotayo\source\repos\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\Adeboye omotayo\source\repos\NumberGuesser\obj\Debug\NumberGuesser.csprojAssemblyReference.cache
+C:\Users\Adeboye omotayo\source\repos\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\Adeboye omotayo\source\repos\NumberGuesser\obj\Debug\NumberGuesser.pdb
